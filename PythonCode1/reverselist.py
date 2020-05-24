@@ -29,5 +29,5 @@ while(i < j):
 print("value after loop:  i = ",i ," and j = ",j)
 
 print(b)
-
+print (b)
 
